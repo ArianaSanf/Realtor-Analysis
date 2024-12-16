@@ -1,4 +1,4 @@
-Northeastern real estate
+Northeastern real estate. Project done in October of 2023
 To my realtors and prospective buyers!
 KPI
 Profitable zip codes & states
